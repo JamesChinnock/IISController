@@ -1,0 +1,15 @@
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\bin\Debug\IISExpressController.dll
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\bin\Debug\IISExpressController.pdb
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\bin\Debug\Autofac.dll
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\bin\Debug\System.Reactive.Core.dll
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\bin\Debug\System.Reactive.Interfaces.dll
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\bin\Debug\System.Reactive.Linq.dll
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\bin\Debug\System.Reactive.PlatformServices.dll
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\bin\Debug\Autofac.xml
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\bin\Debug\System.Reactive.Core.xml
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\bin\Debug\System.Reactive.Interfaces.xml
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\bin\Debug\System.Reactive.Linq.xml
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\bin\Debug\System.Reactive.PlatformServices.xml
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\obj\Debug\IISExpressController.csprojResolveAssemblyReference.cache
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\obj\Debug\IISExpressController.dll
+C:\CSharp\IISExpress\IISExpressController\IISExpressController\obj\Debug\IISExpressController.pdb

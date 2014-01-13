@@ -1,0 +1,60 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:FluentInterface/f:IISConfigBuilderBase.cs" caret="402" fromTop="14" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:FluentInterface/f:IISConfigBuilder.cs" caret="1122" fromTop="37" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/f:Autofac.cs" caret="613" fromTop="20" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:Configuration/f:IConfigurationManager.cs" caret="159" fromTop="6" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:CustomExceptions/f:ProcessExceptionArgs.cs" caret="2520" fromTop="43" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:Configuration/f:IISConfig.cs" caret="223" fromTop="8" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/f:App.config" caret="0" fromTop="0" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:Services/f:IInternetConfigurationService.cs" caret="723" fromTop="21" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:TestData/f:TestIISConfig.cs" caret="257" fromTop="8" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:Services/f:IProcessManagementService.cs" caret="264" fromTop="12" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:AcceptanceTests/f:IISExpressStopAcceptance.cs" caret="0" fromTop="0" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/f:IISExpress.cs" caret="2951" fromTop="16" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISExpressUnitTests.cs" caret="0" fromTop="0" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:Configuration/f:IISConfigurationManager.cs" caret="151" fromTop="4" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:Services/f:ProcessManagementService.cs" caret="691" fromTop="0" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:Services/f:IISConfigValidationService.cs" caret="799" fromTop="22" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:Services/f:IConfigValidationService.cs" caret="294" fromTop="9" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="4038" fromTop="27" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:CustomExceptions/f:Exception.cs" caret="379" fromTop="9" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:Services/f:IISConfigurationService.cs" caret="0" fromTop="0" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:CustomExceptions/f:IISConfigExceptionArgs.cs" caret="339" fromTop="9" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:AcceptanceTests/f:IISExpressExeConfigDetailsAcceptanceTests.cs" caret="0" fromTop="0" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:AcceptanceTests/f:IISExpressConfigAcceptance.cs" caret="1634" fromTop="30" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:AcceptanceTests/f:IISExpressStartAcceptance.cs" caret="1695" fromTop="20" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="6663" fromTop="30" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="7032" fromTop="36" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="2" fromTop="1" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="1217" fromTop="32" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="315" fromTop="10" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="1721" fromTop="31" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="655" fromTop="12" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="895" fromTop="17" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="1608" fromTop="33" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="6651" fromTop="29" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="2646" fromTop="39" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="1947" fromTop="4" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="2335" fromTop="13" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="2719" fromTop="22" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="3077" fromTop="31" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:CustomExceptions/f:IISConfigExceptionArgs.cs" caret="248" fromTop="1" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:CustomExceptions/f:IISConfigExceptionArgs.cs" caret="1482" fromTop="27" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:CustomExceptions/f:IISConfigExceptionArgs.cs" caret="1572" fromTop="32" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:CustomExceptions/f:IISConfigExceptionArgs.cs" caret="1299" fromTop="26" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:CustomExceptions/f:IISConfigExceptionArgs.cs" caret="939" fromTop="16" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:Services/f:IISConfigurationService.cs" caret="2064" fromTop="38" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="3677" fromTop="29" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="4252" fromTop="40" />
+    <File id="FD425715-ECEF-461D-BCC5-C4C92697627B/d:CustomExceptions/f:IISConfigExceptionArgs.cs" caret="1816" fromTop="42" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="4908" fromTop="39" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="4395" fromTop="30" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="3488" fromTop="11" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="6095" fromTop="52" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="5863" fromTop="35" />
+    <File id="9BAF8317-2916-436E-9948-396802E37F3C/d:UnitTests/f:IISConfigurationServiceUnitTests.cs" caret="5314" fromTop="25" />
+  </RecentEdits>
+</RecentFiles>

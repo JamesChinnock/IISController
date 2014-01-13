@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISExpressController", "IISExpressController\IISExpressController.csproj", "{FD425715-ECEF-461D-BCC5-C4C92697627B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISExpressControllerTests", "IISExpressControllerTests\IISExpressControllerTests.csproj", "{9BAF8317-2916-436E-9948-396802E37F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD425715-ECEF-461D-BCC5-C4C92697627B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD425715-ECEF-461D-BCC5-C4C92697627B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD425715-ECEF-461D-BCC5-C4C92697627B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD425715-ECEF-461D-BCC5-C4C92697627B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAF8317-2916-436E-9948-396802E37F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAF8317-2916-436E-9948-396802E37F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAF8317-2916-436E-9948-396802E37F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAF8317-2916-436E-9948-396802E37F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

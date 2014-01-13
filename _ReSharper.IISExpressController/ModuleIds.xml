@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="FD425715-ECEF-461D-BCC5-C4C92697627B" ModuleId="IISExpressController" />
+  <Module PersistentId="9BAF8317-2916-436E-9948-396802E37F3C" ModuleId="IISExpressControllerTests" />
+</Modules>
